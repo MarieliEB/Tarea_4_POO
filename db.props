@@ -1,0 +1,2 @@
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+url=jdbc:sqlserver://DESKTOP-OJ75G17\SQLEXPRESS;DatabaseName=test;user=sa;password=mariEliCenfo
